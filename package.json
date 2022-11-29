@@ -1,0 +1,27 @@
+{
+  "name": "lab4",
+  "version": "1.0.0",
+  "description": "lab4",
+  "main": "script.js",
+  "scripts": {
+    "start": "node script.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dima-potebnya/Laba4.git"
+  },
+  "keywords": [
+    "lab4"
+  ],
+  "author": "Dmytro Potebnya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dima-potebnya/Laba4/issues"
+  },
+  "homepage": "https://github.com/dima-potebnya/Laba4#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^6.7.4"
+  }
+}
